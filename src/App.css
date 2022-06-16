@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+input {
+  border-radius: 10px;
+}
+
+.App-header {
+  background-color: #8e5585;
+  background-color: #be97b9;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.Step {
+  background-color: #a5779f;
+  border: solid 3px white;
+  padding: 10px;
+  border-radius: 10px;
+}

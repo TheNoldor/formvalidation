@@ -1,0 +1,26 @@
+.stepper {
+  //background-color: #07470c;
+  //background-color: #06620e;
+  background-color: #784583;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(12px);
+  color: white;
+  border: solid 3px white;
+  filter: drop-shadow(10px 10px 4px #07320a66);
+  border-radius: 15px;
+  padding: 20px;
+}
+
+.border-stepper {
+  margin: 15px;
+  border: solid 3px #0a4b12 0a66;
+  filter: drop-shadow(10px 10px 4px #07320a66);
+  border-radius: 15px;
+}
+
+input {
+  margin-top: 5px;
+}
